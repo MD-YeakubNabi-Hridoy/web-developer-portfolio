@@ -134,3 +134,33 @@ main{
     margin: 10px;
 }
 /* Resume section style */
+#resume-title{
+    padding: 50px 0px;
+}
+.qualification{
+    display: flex;
+    justify-content: space-between;
+}
+.resume-container{
+    padding: 5px 50px;
+}
+.resume-title{
+    padding-bottom: 10px;
+    font-size: 28px;
+}
+.resume-sub{
+    margin-bottom: 3px;
+    margin-top: 30px;
+}
+.resume-int{
+    margin-bottom: 10px;
+    font-weight: 600;
+    color: #474747;
+}
+.resume-des{
+    margin: 20px 20px 20px 0px;
+}
+#btn-resume{
+    position: absolute;
+    left: 680px;
+}
