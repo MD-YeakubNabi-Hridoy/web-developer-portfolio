@@ -207,3 +207,6 @@ textarea{
     font-family: 800;
     border-radius: 5px;
 }
+.social-icon>a{
+    margin-right: 10px;
+}
