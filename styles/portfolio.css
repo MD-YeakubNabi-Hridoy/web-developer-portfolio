@@ -164,3 +164,43 @@ main{
     position: absolute;
     left: 680px;
 }
+/* Footer section style */
+.footer{
+    background-color: #FFF8F3;
+    margin-top: 130px;
+}
+.contact-address{
+    display: flex;
+    justify-content: space-between;
+    padding: 100px 200px;
+}
+.contact-des{
+    margin: 20px 0px;
+    padding-right: 350px;
+}
+form{
+    margin-top: 20px;
+}
+input{
+    border: none;
+    height: 25px;
+    width: 300px;
+    padding: 10px;
+    margin-bottom: 15px;
+}
+textarea{
+    border: none;
+    padding: 10px;
+}
+#btn-action{
+    width: 100px;
+    height: 50px;
+    padding: 10px;
+    text-align: center;
+    margin-top: 10px;
+    background-color: #FD6E0A;
+    color: white;
+    font-size: 20px;
+    font-family: 800;
+    border-radius: 5px;
+}
